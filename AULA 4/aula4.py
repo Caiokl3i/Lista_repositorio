@@ -10,7 +10,7 @@
 #     print(f"i :", {i})
 #     # att da var
 #     i - i + 1 # incremento
-
+dadafa
 # -------------------------------------------------- 
 
 # # var de controle

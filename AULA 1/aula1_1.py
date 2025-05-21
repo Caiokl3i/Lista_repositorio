@@ -11,7 +11,7 @@ print(f'O valor da hipotenusa é: {h:.2f}')
 
 #2 - Calcular a raiz cúbica de X da expressão abaixo.
 #x = ((raiz(y) + a/3)/raiz(b/2a)
-
+teste
 a = int(input('Digite o lado a do triângulo: '))
 b = int(input('Digite o lado b do triângulo: '))
 h = (a1 ** 2 + a2 ** 2) ** 0.5
