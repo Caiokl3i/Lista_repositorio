@@ -64,6 +64,8 @@ print("")
 print(f'Houveram {branco_list[0]} votos em branco - {branco_list[1]:.1f}% dos votos')
 print("")
 
+
+
 qtde_votos_cada = [qtde_selthon, qtde_caio, qtde_leo]
 if max(qtde_votos_cada) == qtde_votos_cada[0]:
     print(f'Candidato com maior voto: SELTHON')
