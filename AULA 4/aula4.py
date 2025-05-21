@@ -2,7 +2,7 @@
 1 - var de controle
 2 - condição de parada
 3 - att da var de controle
-'''
+'''oansdouasndoasndas
 # # var de controle
 # i = 0 
 # # cond. parada
