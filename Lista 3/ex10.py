@@ -7,8 +7,6 @@ palavras = ["Eu", "sou", "muito", "legal"]
 frase = ""
 aux = ""
 
-for item in palavras:
-    aux = item + ","
-    frase = 
+
 
 print(palavras)
