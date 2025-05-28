@@ -6,6 +6,7 @@ lista = ["A", "B", "C"]
 
 print(lista)
 
-lista.pop(2)
+indice = lista.pop() 
 
 print(lista)
+print(indice)
