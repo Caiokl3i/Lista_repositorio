@@ -4,9 +4,6 @@
 
 palavras = ["Eu", "sou", "muito", "legal"]
 
-frase = ""
-aux = ""
+frase = ", ".join(palavras)
 
-
-
-print(palavras)
+print(frase)
