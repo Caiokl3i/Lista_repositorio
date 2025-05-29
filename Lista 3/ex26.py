@@ -2,16 +2,11 @@
 26. Inverta os elementos de uma lista sem usar o m´etodo reverse.
 '''
 
-lista = ["ao", "contrario", 'de', "um"]
+lista = [1, 2, 3, 4, 5, 6]
+reverse = []
 
-print(lista)
+for item in lista:
+    reverse.insert(0, item)
 
-n = len(lista)
-
-for i in range(0, n - 1):
-    reclycle = lista.pop(0)
-    lista.append(reclycle)
-    
-print(lista.reverse)
-
+print(reverse)
 
